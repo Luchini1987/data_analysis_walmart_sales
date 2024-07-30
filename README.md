@@ -5,8 +5,17 @@ The framework used to carry out the analysis was taken from [datacamp](https://w
 
 ## steps to analyse data
 1. Identify business questions
-2. collect and store data
-3. clean and prepare data
+2. Collect and store data
+3. Clean and prepare data
 4. Analyse data
-5. visualize and communicate data
+5. Visualize and communicate data
+
+This project aims to develop the third step "Clean and prepare data".
+
+The cleaning process focused on the following goals:
+1. Checking for duplicate data
+2. Looking for inconsistencies
+3. Looking for null values
+4. Standardizing values
+
   
