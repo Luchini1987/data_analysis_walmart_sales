@@ -23,11 +23,12 @@ Also, i utilized an exploratory data analysis in order to study and summarize th
 Inside the archive, script.sql, attached; you can check the script written in order to answer each question.    
 
 1. How many invoices did Walmart issue by month and by year?
-   ![image](https://github.com/user-attachments/assets/cd45fe1a-306c-45c0-b6a4-e4aaf1b82654)
-
+   ![image](https://github.com/user-attachments/assets/6a658dfa-7579-462e-8552-c4976c99e70a)
+   ![image](https://github.com/user-attachments/assets/ebd630f1-b2f8-403c-bc6b-dd9d1ab55ede)
 2. Walmart is open almost all day, we want to know, at what time did Walmart issue the most of invoices?
+
 3. Which was the product line that generated the most of sales?
-4. What is the mean, median, minimum value, maximun value and standard deviation of total sales by product line?
+3. What is the mean, median, minimum value, maximun value and standard deviation of total sales by product line?
 5. What is the total sale by week considering each month?
 6. What are the different types of payment?
 7. What are the most popular type of payment classified by number of invoices?  
