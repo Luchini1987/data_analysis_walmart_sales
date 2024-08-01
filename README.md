@@ -3,7 +3,7 @@ The present project has as main objectif to analyse raw data about walmart sales
 
 The framework used to carry out the analysis was taken from [datacamp](https://www.datacamp.com/blog/how-to-analyze-data-for-business) .
 
-## steps to analyse data
+## Steps to analyse data
 1. Identify business questions
 2. Collect and store data
 3. Clean and prepare data
@@ -17,5 +17,8 @@ The cleaning process focused on the following goals:
 2. Looking for inconsistencies
 3. Looking for null values
 4. Standardizing values
+
+Also, i utilized an exploratory data analysis in order to study and summarize the characteristics of data. Using the EDA approach, i seeks to answer the following questions:
+
 
   
