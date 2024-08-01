@@ -17,11 +17,14 @@ The cleaning process focused on the following goals:
 2. Looking for inconsistencies
 3. Looking for null values
 4. Standardizing values
+Inside the archive, script.sql, attached; you can check the script written in order to validate each point presented above. 
 
 Also, i utilized an exploratory data analysis in order to study and summarize the characteristics of data. Using the EDA approach, i seeks to answer the following questions using queries developed in POSTGRESQL.
-Inside the 
+Inside the archive, script.sql, attached; you can check the script written in order to answer each question.    
 
 1. How many invoices did Walmart issue by month and by year?
+   ![image](https://github.com/user-attachments/assets/cd45fe1a-306c-45c0-b6a4-e4aaf1b82654)
+
 2. Walmart is open almost all day, we want to know, at what time did Walmart issue the most of invoices?
 3. Which was the product line that generated the most of sales?
 4. What is the mean, median, minimum value, maximun value and standard deviation of total sales by product line?
