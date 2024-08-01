@@ -20,7 +20,7 @@ The cleaning process focused on the following goals:
    
 Inside the archive, script.sql, attached; you can check the script written in order to validate each point presented above. 
 
-Also, i utilized an exploratory data analysis in order to study and summarize the characteristics of data. Using the EDA approach, i seeks to answer the following questions using queries developed in POSTGRESQL.
+Also, i utilized an exploratory data analysis in order to study and summarize the characteristics of data. Using the EDA approach, i seek to answer the following questions using queries developed in POSTGRESQL.
 Inside the archive, script.sql, attached; you can check the script written in order to answer each question.    
 
 1. How many invoices did Walmart issue by month and by year?
